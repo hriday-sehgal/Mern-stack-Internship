@@ -5,3 +5,4 @@
  
  Github Pages link for tasks- https://hriday-sehgal.github.io/Mern-stack-Internship/
  
+Owner - Hriday Sehgal
